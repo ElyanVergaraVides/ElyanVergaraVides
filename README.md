@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi:<br><br>Perfil de Github - Elyán Vergara Vides<br><br>!Hola¡ soy Elyán, aprendiz del Técnico en programación de Software.<br>ficha: 2875029<br><br>mi objetivo es aprender y compartir mis conocimientos y experiencias a otros y ayudarlos <br>a crecer en el mundo de la programación.
 
 
